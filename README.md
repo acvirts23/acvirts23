@@ -4,7 +4,7 @@
 
 -Here is where you will find all of my projects, both those done in school as well as my personal projects
 
--All of the content in the projects/labs repo are projects completed at school
+-All of the content in the projects/labs repo are projects completed during my time at school
 
 -Every other repo contains projects that are my own personal creations!
 
