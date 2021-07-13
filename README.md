@@ -8,7 +8,7 @@
 
 -Every other repo contains projects that are my own personal creations!
 
--I am particularly interested in artificial intelligence, machine-learning, cyber security, and the crypto space including blockchain/smart-contract development. 
+-I am particularly interested in artificial intelligence, machine-learning, cyber security, and the crypto space
 
  - 🏂 Outside of software development I am an avid snowboarder who has traveled all over the country pursuing my passion. I look forward to checking off big-ticket resorts and mountains every winter and hope to make a trip outside of the country to ride in the Swiss Alps in the near future. 🏔️
 
